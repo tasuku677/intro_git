@@ -2,4 +2,5 @@
 変更を加えていきます
 ・git add
 ・git commit
-さらに変更
+・git rm
+・git status
